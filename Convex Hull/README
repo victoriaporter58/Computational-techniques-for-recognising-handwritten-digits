@@ -1,0 +1,3 @@
+#Convex Hull Code
+
+This code calculates the convex hull of the regions of interest and saves them to a JSON file in the format required for using the model.
