@@ -1,4 +1,4 @@
-# Computational techniques for recognising handwritten digits
+# Machine Learning techniques for recognising handwritten digits
 
 This project encompasses a range of neural and non-neural model implementations to classifiy MNIST digits.
 
