@@ -4,7 +4,7 @@ This project encompasses a range of neural and non-neural model implementations 
 
 The goal is to compare the performance of each technique including details of hyper-parameters, training ans testing errors, training and testing duration and additional parameters used in the analysis.
 
-Each of the techniques have been developed using Google Colaboratory (.ipynb files)
+Each of the techniques have been developed using Google Colaboratory therefore all required dependencies are included in the ipynb files.
 
 Neural Techniques:
 - Convolutional Neural Network
